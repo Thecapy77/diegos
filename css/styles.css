@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(5, 5, 5);
+}
+
+.fondoverdeclaro{
+    background-color: greenyellow;
+}
+
+.fondoverde{
+    background-color: rgb(248, 246, 246);
+}
+
+.altura1{
+    height: 2rem;
+}
+
+.altura2{
+    height: 20rem;
+}
+
+.altura3{
+    height: 20rem;
+}
+
+.altura4{
+    height: 20rem;
+}
+
+.altura5{
+    height: 20rem;
+}
+
+.altura6{
+    height: 10rem;
+}
+
+.altura7{
+    height: 10rem;
+}
+
+.fondoamarillo{
+    background-color: rgb(0, 0, 0);
+}
+
+.fondoazul{
+    background-color: white;
+}
+
+.fondorojo{
+    background-color: rgb(0, 0, 0);
+}
+
+.fondonaranja{
+    background-color: rgb(61, 63, 223);
+}
+
+.fondomorado{
+    background-color: rgb(236, 16, 16);
+}
+
+.fondogris{
+    background-color: rgb(87, 232, 252);
+}
